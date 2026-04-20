@@ -10,7 +10,7 @@ DevOps is a **set of practices** that combines **software development (Dev)** an
 
 ### **2. How does DevOps differ from traditional IT operations?**  
 
-#### **Answer:**  
+###### **Answer:**  
 
 | **Aspect**       | **Traditional IT Operations** | **DevOps** |
 |-----------------|------------------------------|------------|
